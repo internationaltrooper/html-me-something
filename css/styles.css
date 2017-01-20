@@ -1,0 +1,17 @@
+body.child{
+    margin:5px;
+
+}
+#article1{
+    padding-left:30px;
+}
+#article2{
+    padding-left:30px;
+}
+p{
+    padding-left:35px;
+}
+img{
+    height:200px;
+    width:400px;
+}
